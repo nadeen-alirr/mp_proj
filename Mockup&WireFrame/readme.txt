@@ -1,6 +1,3 @@
-# Project Name
-
-Welcome to the Project Name repository! This project aims to...
 
 ## Design
 

@@ -18,7 +18,7 @@ mongoose.connect(DB, {
     console.error("Error connecting to MongoDB:", err);
   });
 
-  
+
   app.listen(port, () => {
     console.log(`Server listening on port ${port}`);
 });
